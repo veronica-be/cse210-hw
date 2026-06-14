@@ -1,3 +1,4 @@
+//IntTryLoop class provides a validated integer input with optional range checking, reusable across all menus
 using System;
 
 class Program
